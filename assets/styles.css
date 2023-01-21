@@ -2,32 +2,87 @@
     box-sizing: border-box;
     padding: 0;
     margin: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 body {
     background-color: #d9dcd6;
 }
 
-.header {
+/* Header: Navigation and Image*/
+nav {
+    display: block;
+    width: auto;
+    margin: 10px;
+    align-items: center;
+}
+
+header {
+    display: inline-block;
     padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-.header h1 {
-    display: inline-block;
-    font-size: 48px;
-}
 
-.header h1 .seo {
+nav h1 {
+    font-size: 48px;
     color: #d9dcd6;
 }
 
-.header div {
-    padding-top: 15px;
-    margin-right: 20px;
-    float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
+nav li {
+    display: block;
+    width: auto;
+    float: left;
 }
+
+nav li a {
+    display: block;
+    padding: 3px;
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.header-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Main Content*/
+.search-engine-optimization, .search-engine-optimization, .social-media-marketing  {
+    display: flex;
+    justify-content: left;
+    background-color: #2874A6;
+    margin: 20px;
+    padding :30px;
+    color: whitesmoke;
+}
+
+img .float-left {
+    display: float;
+    float: left;
+}
+
+img .float-right {
+    display: float;
+    float: right;
+}
+
+/* Benefits Content*/
+
+section.benefits {
+    display: flex;
+    justify-content: right;
+    background-color: #5499C7;
+    color: whitesmoke;
+
+}
+
+/* Footer Content*/

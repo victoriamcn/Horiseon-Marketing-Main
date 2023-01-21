@@ -14,22 +14,25 @@ I learned how to implement semantic elements and when to use discretion for div 
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-- [Badges](#badges)
 - [Tests](#tests)
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+Step-by-step instructions on how to get the development environment running:
 
 1. Create a GitHub Account if you do not already have one.
 2. Follow this [link](https://github.com/victoriamcn) to my GitHub account.
-3. On my acount page, find the repository labeled *01-HTML-GIT-CSS*.
+3. On my acount page, find the repository labeled [*01-HTML-GIT-CSS*](https://github.com/victoriamcn/01-HTML-GIT-CSS).
+4. Click the green button labeled Code.
+5. Clone the repository using the SSH option.
+6. On your local computer, open either Terminal for Mac or Bash for PC.
+7. In your preferred directory, use the command line to clone the *01-HTML-GIT-CSS* repository.
+8. Use the command line to open the directory.
+9. Double click the index.html file to open it on your preferred browser.
 
 ## Usage
 
 Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
     ```md
     ![alt text](assets/images/screenshot.png)
@@ -48,14 +51,7 @@ If you followed tutorials, include links to those here as well.
 
 ## License
 
-Please see license in folder.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
+Please see license file in 01-HTML-GIT-CSS folder. Link [here](https://github.com/victoriamcn/01-HTML-GIT-CSS/blob/main/LICENSE)
 
 ## Tests
 
