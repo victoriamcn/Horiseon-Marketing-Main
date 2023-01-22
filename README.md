@@ -6,54 +6,51 @@ The client, Horiseon Marketing Company, wanted codebase that follows accessibili
 
 Additionally, The Horiseon Marketing Company webpage  wanted to include a navigation bar, a header image, and cards with text and images at the bottom of the page.
 
-I learned how to implement semantic elements and when to use discretion for div elements, which are not semantic, but useful for stlying purposes.
+I learned how to implement semantic elements and when to use <div> elements, which are not semantic, but useful for stlying purposes.
 
 ## Table of Contents
 
-- [Installation](#installation)
 - [Usage](#usage)
+- [Installation](#installation)
 - [Credits](#credits)
 - [License](#license)
+- [Tech Used](#tech-used)
 - [Tests](#tests)
-
-## Installation
-
-Step-by-step instructions on how to get the development environment running:
-
-1. Create a GitHub Account if you do not already have one.
-2. Follow this [link](https://github.com/victoriamcn) to my GitHub account.
-3. On my acount page, find the repository labeled [*01-HTML-GIT-CSS*](https://github.com/victoriamcn/01-HTML-GIT-CSS).
-4. Click the green button labeled Code.
-5. Clone the repository using the SSH option.
-6. On your local computer, open either Terminal for Mac or Bash for PC.
-7. In your preferred directory, use the command line to clone the *01-HTML-GIT-CSS* repository.
-8. Use the command line to open the directory.
-9. Double click the index.html file to open it on your preferred browser.
 
 ## Usage
 
-USe this code to view semantic 
-Provide instructions and examples for use. Include screenshots as needed.
+Use this webpage as an example of best practices for semantics in HTML code.
 
     ```md
-    ![alt text](assets/images/screenshot.png)
+    ![Refernce Image Provided for Hariseon WebPage](01-HTML-GIT-CSS/assets/images/Reference)
     ```
+
+## Installation
+
+Step-by-step instructions on how to view my HTML code:
+
+1. Clone the repository labeled [*01-HTML-GIT-CSS*](https://github.com/victoriamcn/01-HTML-GIT-CSS) to your local computer.
+2. Use the command line to open the directory.
+3. Double click the index.html file to open it on your preferred browser. Right click to inspect element.
+4. Or you may open the repository on VS Code to View.
 
 ## Credits
 
-**Starter code provided by the Georgia Tech Full Stack Web Development Bootcamp via Git Lab.**
+**Starter code provided by the Georgia Tech Full Stack Web Development Bootcamp via Git Lab.** [Click link here.](https://gt.bootcampcontent.com/GT-Coding-Boot-Camp/GT-VIRT-FSF-PT-01-2023-U-LOLC/-/blob/main/01-HTML-Git-CSS/02-Challenge/README.md)
 
-Tutorials
-- **README Professional Template:** [title](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
-- 
+**Advice and guidance provided by my tutor, Andrew Hardemon. Thanks you, Andrew!**
 
-
-If you followed tutorials, include links to those here as well.
+###Tutorials
+- **Why Use Semantics** [Click link here.](https://www.thoughtco.com/why-use-semantic-html-3468271)
+- **Semantic HTML Tutorial** [Click link here.](https://www.internetingishard.com/html-and-css/semantic-html/)
+- **README Professional Template:** [Click link here.](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 
 ## License
 
 Please see license file at the link [here](https://github.com/victoriamcn/01-HTML-GIT-CSS/blob/main/LICENSE).
 
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
+## Tech Used
+-- Mac Terminal
+-- GitLab
+-- VS Code
+-- Git Hub
