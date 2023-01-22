@@ -6,7 +6,7 @@ The client, Horiseon Marketing Company, wanted codebase that follows accessibili
 
 Additionally, The Horiseon Marketing Company webpage  wanted to include a navigation bar, a header image, and cards with text and images at the bottom of the page.
 
-I learned how to implement semantic elements and when to use discretion for div elements, which are not semantic, but useful for stlying purposes. I also learned how to position conent on the page with CSS.
+I learned how to implement semantic elements and when to use discretion for div elements, which are not semantic, but useful for stlying purposes.
 
 ## Table of Contents
 
@@ -32,6 +32,7 @@ Step-by-step instructions on how to get the development environment running:
 
 ## Usage
 
+USe this code to view semantic 
 Provide instructions and examples for use. Include screenshots as needed.
 
     ```md
