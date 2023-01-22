@@ -36,14 +36,14 @@ Step-by-step instructions on how to view my HTML code:
 
 **Advice and guidance provided by my tutor, Andrew Hardemon. Thanks you, Andrew!**
 
-###Tutorials
-- **Why Use Semantics** [Click link here.](https://www.thoughtco.com/why-use-semantic-html-3468271)
-- **Semantic HTML Tutorial** [Click link here.](https://www.internetingishard.com/html-and-css/semantic-html/)
-- **README Professional Template:** [Click link here.](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+**Tutorials**
+- [Why Use Semantics](https://www.thoughtco.com/why-use-semantic-html-3468271)
+- [Semantic HTML Tutorial](https://www.internetingishard.com/html-and-css/semantic-html/)
+- [README Professional Template](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
 
 ## License
 
-Please see license file at the link [here](https://github.com/victoriamcn/01-HTML-GIT-CSS/blob/main/LICENSE).
+Please see the license file at the link [here](https://github.com/victoriamcn/01-HTML-GIT-CSS/blob/main/LICENSE).
 
 ## Tech Used
 -- Mac Terminal
