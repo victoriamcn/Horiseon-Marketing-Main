@@ -21,10 +21,6 @@ I learned how to implement semantic elements and when to use <div> elements, whi
 
 Use this webpage as an example of best practices for semantics in HTML code.
 
-    ```md
-    ![Refernce Image Provided for Hariseon WebPage](01-HTML-GIT-CSS/assets/images/Reference)
-    ```
-
 ## Installation
 
 Step-by-step instructions on how to view my HTML code:
