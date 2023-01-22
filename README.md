@@ -40,7 +40,7 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 ## Credits
 
-**Starter code provided by the TAs at the GA TEch Full Stack Development camp via Git Lab.**
+**Starter code provided by the Georgia Tech Full Stack Web Development Bootcamp via Git Lab.**
 
 Tutorials
 - **README Professional Template:** [title](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
@@ -51,7 +51,7 @@ If you followed tutorials, include links to those here as well.
 
 ## License
 
-Please see license file in 01-HTML-GIT-CSS folder. Link [here](https://github.com/victoriamcn/01-HTML-GIT-CSS/blob/main/LICENSE)
+Please see license file at the link [here](https://github.com/victoriamcn/01-HTML-GIT-CSS/blob/main/LICENSE).
 
 ## Tests
 
