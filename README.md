@@ -33,7 +33,7 @@ Step-by-step instructions on how to view my HTML code:
 
 **Starter code provided by the Georgia Tech Full Stack Web Development Bootcamp via Git Lab.** [Click link here.](https://gt.bootcampcontent.com/GT-Coding-Boot-Camp/GT-VIRT-FSF-PT-01-2023-U-LOLC/-/blob/main/01-HTML-Git-CSS/02-Challenge/README.md)
 
-**Advice and guidance provided by my tutor, Andrew Hardemon. Thanks you, Andrew!**
+**Advice and guidance provided by my tutor, Andrew Hardemon.**
 
 **Tutorials**
 - [Why Use Semantics](https://www.thoughtco.com/why-use-semantic-html-3468271)
