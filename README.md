@@ -34,7 +34,7 @@ Use this webpage and its code as an example of best practices for semantics in H
 
 Step-by-step instructions on how to view my HTML code on your local computer:
 
-1. Clone the repository labeled [*01-HTML-GIT-CSS*](https://github.com/victoriamcn/Horiseon-Marketing-Main) to your local computer.
+1. Clone the repository labeled [*Horiseon-Marketing-Main*](https://github.com/victoriamcn/Horiseon-Marketing-Main) to your local computer.
 2. Use the command line to open the directory.
 3. Double click the index.html file to open it on your preferred browser. Right click to inspect element.
 4. Or you may open the repository on VS Code to View.
