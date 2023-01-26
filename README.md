@@ -10,19 +10,29 @@ I learned how to implement semantic elements and when to use <div> elements, whi
 
 ## Table of Contents
 
+- [Link to Site](#link-to-site)
 - [Usage](#usage)
+- [Preview](#preview)
 - [Installation](#installation)
 - [Credits](#credits)
 - [License](#license)
 - [Tech Used](#tech-used)
 
+## Link to Site
+
+[http://horiseonmarketing.com/](http://horiseonmarketing.com/)
+
 ## Usage
 
-Use this webpage as an example of best practices for semantics in HTML code.
+Use this webpage and its code as an example of best practices for semantics in HTML code.
+
+## Preview
+
+![Screenshot of the Horiseon Marketing Landing Page](./assets/Preview/HoriseonMarketingPreviewPage.png)
 
 ## Installation
 
-Step-by-step instructions on how to view my HTML code:
+Step-by-step instructions on how to view my HTML code on your local computer:
 
 1. Clone the repository labeled [*01-HTML-GIT-CSS*](https://github.com/victoriamcn/Horiseon-Marketing-Main) to your local computer.
 2. Use the command line to open the directory.
