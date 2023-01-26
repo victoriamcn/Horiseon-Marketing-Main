@@ -15,7 +15,6 @@ I learned how to implement semantic elements and when to use <div> elements, whi
 - [Credits](#credits)
 - [License](#license)
 - [Tech Used](#tech-used)
-- [Tests](#tests)
 
 ## Usage
 
@@ -25,7 +24,7 @@ Use this webpage as an example of best practices for semantics in HTML code.
 
 Step-by-step instructions on how to view my HTML code:
 
-1. Clone the repository labeled [*01-HTML-GIT-CSS*](https://github.com/victoriamcn/01-HTML-GIT-CSS) to your local computer.
+1. Clone the repository labeled [*01-HTML-GIT-CSS*](https://github.com/victoriamcn/Horiseon-Marketing-Main) to your local computer.
 2. Use the command line to open the directory.
 3. Double click the index.html file to open it on your preferred browser. Right click to inspect element.
 4. Or you may open the repository on VS Code to View.
@@ -43,10 +42,10 @@ Step-by-step instructions on how to view my HTML code:
 
 ## License
 
-Please see the license file at the link [here](https://github.com/victoriamcn/01-HTML-GIT-CSS/blob/main/LICENSE).
+Please see the license file at the link [here](https://github.com/victoriamcn/Horiseon-Marketing-Main/blob/main/LICENSE).
 
 ## Tech Used
--- Mac Terminal
--- GitLab
--- VS Code
--- Git Hub
+- GitLab
+- Mac Terminal
+- VS Code
+- GitHub
